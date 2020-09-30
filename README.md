@@ -1,0 +1,5 @@
+# Student-Result-Analysis
+Using this web application students can know or access the result effortlessly, quickly and conveniently
+
+
+Student results analysis is a web-based application. Designed for colleges. It manages the results across multiple branches. This application can run on any kind of operating system. We can see all semester results at one place. Individual candidate’s result is shown separately. The current existing system problem is that, it doesn’t provide the students aggregate of the semester. It takes more time to search student result. Student result analysis provides the data subject wise. Students must get registered in this site and must be authenticated user of the college with particular college ID to access this application. Also provides user manual for users which assists them about registration, account login, logout.  Once the applicant enters the valid user id and password, he/she will be provided with semester wise marks, aggregate of all semesters, viewing subject wise marks. Through this web application students can know or access the result effortlessly, quickly and conveniently.
